@@ -1,0 +1,35 @@
+.container {
+    margin: 0 auto;
+    text-align: center;
+    width: 80%;
+}
+
+table {
+    width: 100%;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+
+input {
+    width: 50%;
+}
+
+.search-area{
+    background-color:#EEEEEE;
+}
+
+.bg-cyan {
+    background-color: #7EE5DA;
+}
+
+.bg-dark-cyan {
+    background-color: #70CCC2;
+}
+
+.bg-dark-sea-green {
+    background-color:#62B3AA;
+}
